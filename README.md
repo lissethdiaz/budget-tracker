@@ -1,5 +1,8 @@
 # Budget Tracker
 
+![](public/images/screenshot.png)
+
+
 ## Description
   
   This app allows you to track expenses and deposits with or without connection.
@@ -13,7 +16,7 @@
   
   ## Deployed Website
 
-   
+   https://hidden-brushlands-65723.herokuapp.com/
 
   ## Usage
 
