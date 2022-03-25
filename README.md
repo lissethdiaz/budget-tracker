@@ -9,16 +9,15 @@
   * Node.js
   * Express.js
   * MongoDB
+  * Mongoose
   
-  ## Installation
+  ## Deployed Website
 
-  After cloning the repo you will run 'npm i' to install/update any packages. After everything is up to date 
+   
 
   ## Usage
 
-  
 
-  Watch this [video]() for a walkthrough on how to use this app.
 
 
   ## Contributed
