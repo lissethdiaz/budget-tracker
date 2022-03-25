@@ -2,7 +2,7 @@
 
 ## Description
   
-  
+  This app allows you to track expenses and deposits with or without connection.
 
   ## Technologies Used
 
