@@ -17,7 +17,7 @@
 
   ## Usage
 
-
+  Enter the name and amount of a transaction and choose if you'd like to add or subtract the amount. Your total amount will display at the top while the breakdown of each transaction will display in the chart below it.
 
 
   ## Contributed

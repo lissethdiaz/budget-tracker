@@ -16,6 +16,10 @@ request.onsuccess = function(event) {
   }
 };
 
+request.onerror = function(event) {
+  console.log(event.target.errorCode);
+};
+
 function saveRecord(record) {
   const transaction = db.transaction(['new_transaction'], 'readWrite');
 
@@ -33,7 +37,7 @@ function uploadTransaction() {
 
   getAll.onsuccess = function() {
     if (getAll.result.length > 0) {
-      fetch('/api/transactions', {
+      fetch('/api/transaction', {
         method: 'POST',
         body: JSON.stringify(getAll.result),
         headers: {
